@@ -1,0 +1,18 @@
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/Users/tdk/.rubies/ruby-3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-hus9y9 sitelibdir\=./.gem.20240709-4266-hus9y9 clean
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-hus9y9 sitelibdir\=./.gem.20240709-4266-hus9y9
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-hus9y9 sitelibdir\=./.gem.20240709-4266-hus9y9 install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240709-4266-hus9y9
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-hus9y9 sitelibdir\=./.gem.20240709-4266-hus9y9 clean

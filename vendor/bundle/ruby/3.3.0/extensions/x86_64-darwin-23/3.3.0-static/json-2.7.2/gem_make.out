@@ -1,0 +1,16 @@
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/tdk/.rubies/ruby-3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-fdqexk sitelibdir\=./.gem.20240709-4266-fdqexk clean
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-fdqexk sitelibdir\=./.gem.20240709-4266-fdqexk
+make: Nothing to be done for `all'.
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-fdqexk sitelibdir\=./.gem.20240709-4266-fdqexk install
+
+current directory: /Users/tdk/Desktop/Github/--platform-name/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240709-4266-fdqexk sitelibdir\=./.gem.20240709-4266-fdqexk clean
